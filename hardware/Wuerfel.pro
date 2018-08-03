@@ -1,6 +1,6 @@
-update=01/01/2018 20:35:28
+update=03/08/2018 21:54:49
 version=1
-last_client=kicad
+last_client=eeschema
 [pcbnew]
 version=1
 LastNetListRead=
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=efm8bb10f8g-a-soic16
+[schematic_editor]
+version=1
+PageLayoutDescrFile=C:/Users/schwarzwald/Privat/Development/eesheet.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
